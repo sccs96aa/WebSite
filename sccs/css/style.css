@@ -300,6 +300,13 @@ hr {
   transition:  color 300ms, background-color 300ms;
 }
 
+/*************/
+
+#home {
+    padding-top: 90px;
+    background: #fff;
+    padding-bottom: 50px;
+}
 /*************************
 *******feature******
 **************************/
@@ -820,4 +827,10 @@ ul.social-network li a {
 }
 .social-network li:hover .fa-pinterest-square {
   color: #EA4B49; 
+}
+
+.ScottishBlue {
+    font-family: 'Old English Text MT';
+    color: #070578;
+    font-size:large;
 }
